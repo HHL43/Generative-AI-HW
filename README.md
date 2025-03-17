@@ -18,3 +18,7 @@
 * loss function使用categorical_crossentropy
 * optimizer使用adamW
 * ImageDataGenerator做Data Augmentation
+
+### hw3 - 使用GAN跟Diffusion並比較
+* 使用GAN、Diffusion生成3組圖片觀察差異
+* 為什麼現在較沒有人在使用GAN來生圖？
