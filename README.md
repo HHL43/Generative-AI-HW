@@ -22,3 +22,6 @@
 ### hw3 - 使用GAN跟Diffusion並比較
 * 使用GAN、Diffusion生成3組圖片觀察差異
 * 為什麼現在較沒有人在使用GAN來生圖？
+
+### hw4 - 以自己的benchmark比較ChatGPT跟Claude
+* 使用兩個模型來trace一段riscv的code，並解釋如何實作background process
