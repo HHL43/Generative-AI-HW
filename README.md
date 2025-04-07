@@ -25,3 +25,7 @@
 
 ### hw4 - 以自己的benchmark比較ChatGPT跟Claude
 * 使用兩個模型來trace一段riscv的code，並解釋如何實作background process
+
+### hw5 - 美食評論生成器
+* 輸入料理名稱，讓專業的美食評論家來評論
+* 介面美化
