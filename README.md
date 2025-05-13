@@ -49,3 +49,11 @@
 * 這個財經小幫手僅供參考用途。使用者應自行評估並承擔所有由此產生的風險。請在做出任何財務決策之前，諮詢專業的財務顧問。
 
 ### hw9 - 以Bing image generator產生一系列相同風格的圖片
+
+### hw10 - 以Gradio產生寫實風格的圖片
+* model: Realistic_Vision_V5
+* scheduler: EulerAncestralDiscreteScheduler
+* VAE: stabilityai/sd-vae-ft-mse
+* 如果想不到prompt，可以讓AI生成prompt
+* 加強prompt, negative prompt也可以讓AI生成
+
