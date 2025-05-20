@@ -57,3 +57,5 @@
 * 如果想不到prompt，可以讓AI生成prompt
 * 加強prompt, negative prompt也可以讓AI生成
 
+
+### hw10 - 以fooocus產生牛頭人貼圖
