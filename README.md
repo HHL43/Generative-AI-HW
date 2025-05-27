@@ -58,4 +58,6 @@
 * 加強prompt, negative prompt也可以讓AI生成
 
 
-### hw10 - 以fooocus產生牛頭人貼圖
+### hw11 - 以fooocus產生牛頭人貼圖
+
+### hw12 - 期末專案提案: AI說書人
